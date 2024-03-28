@@ -12,7 +12,7 @@
             "Peppermint Sprinkle",
             "Vanilla Base"
         ],
-        "image": "https://priyansht.github.io/23F-JavaScript-02-Week11/images/chocolate-mint.svg"
+        "image": "https://khushivekariya28.github.io/Lab4-comp1073/images/chocolate-mint.svg"
     }, {
         "name": "Peach Mango",
         "calories": 250,
@@ -22,7 +22,7 @@
             "Mango Chunks",
             "Vanilla Base"
         ],
-        "image": "https://priyansht.github.io/23F-JavaScript-02-Week11/images/peach-mango.svg"
+        "image": "https://khushivekariya28.github.io/Lab4-comp1073/images/peach-mango.svg"
     }, {
         "name": "Strawberry Sprinkle",
         "calories": 300,
@@ -32,7 +32,7 @@
             "Some Sprinkles",
             "Vanilla Base"
         ],
-        "image": "https://priyansht.github.io/23F-JavaScript-02-Week11/images/strawberry-sprinkle.svg"
+        "image": "https://khushivekariya28.github.io/Lab4-comp1073/images/strawberry-sprinkle.svg"
     }, {
         "name": "Caramel",
             "calories": 280,
@@ -41,7 +41,7 @@
                 "Caramel Sauce",
                 "Vanilla Base"
             ],
-            "image": "https://priyansht.github.io/23F-JavaScript-02-Week11/images/ice-cream.xtra1.svg"
+            "image": "https://khushivekariya28.github.io/Lab4-comp1073/images/ice-cream.xtra1.svg"
         }, {
             "name": "Kiwi",
             "calories": 150,
@@ -51,7 +51,7 @@
                 "Sugar",
                 "Water"
             ],
-            "image": "https://priyansht.github.io/23F-JavaScript-02-Week11/images/ice-cream.xtra2.svg"
+            "image": "https://khushivekariya28.github.io/Lab4-comp1073/images/ice-cream.xtra2.svg"
         }
     ]
 }
